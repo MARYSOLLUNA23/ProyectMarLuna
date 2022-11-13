@@ -1,0 +1,39 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+.tableOrigen{
+    text-align: center;
+    width: 70%;
+    border-style: none;
+    margin: 15% auto 10% auto;
+    border: 0.1em solid #0a0a0a;
+    background-color: black;
+}
+.thOrigen{
+    background-color: #f1d42b;
+    padding: 2%;
+}
+
+.thOrigen h1{
+    font-size: 1.6em;
+}
+
+.tdOrigen{
+    padding: 3%;
+    background-color: #ae81fa;
+    font-size: 1.5em;
+    border: 0.1em solid #7b47d4;
+}
+
+.tdOrigen:hover{
+    background-color: #7b47d4;
+    
+}
+.tdOrigen a{
+    color: #0a0a0a;
+    text-decoration: none;
+}
+.tdOrigen a:hover{
+    color: #f1d42b;
+}
